@@ -65,7 +65,7 @@ console.log(profile);
           >
             <div className="w-32 h-32 mx-auto rounded-full overflow-hidden border-4 border-blue-400/50 shadow-lg bg-slate-700">
               <img 
-                src="/profile.jpg" 
+                src="/profile.JPG" 
                 alt="Sahaanaasri S" 
                 className="w-full h-full object-cover"
               />
